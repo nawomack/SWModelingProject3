@@ -5,6 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+//manages the customer UI.
 public class ManageCustomerUI {
 
     public JFrame view;
