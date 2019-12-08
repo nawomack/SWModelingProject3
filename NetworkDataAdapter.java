@@ -122,6 +122,5 @@ public class NetworkDataAdapter implements IDataAdapter {
         else {
             return gson.fromJson(msg.data, UserModel.class);
         }
-
     }
 }
