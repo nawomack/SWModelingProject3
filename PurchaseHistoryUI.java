@@ -1,6 +1,7 @@
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 
+//Manages the purchase history.
 public class PurchaseHistoryUI {
 
     public JFrame view;
