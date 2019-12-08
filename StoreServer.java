@@ -6,6 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Scanner;
 
+//stores a server.
 public class StoreServer {
     static String dbfile = "C:\\Users\\ttn0007\\Desktop\\StoreManager\\data\\store.db";
 
