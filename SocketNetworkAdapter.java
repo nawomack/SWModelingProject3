@@ -4,6 +4,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
+//Network Socket adapter.
 public class SocketNetworkAdapter implements INetworkAdapter {
     @Override
     public String exchange(String msg, String host, int port) throws Exception {
