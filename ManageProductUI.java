@@ -5,6 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+//manages the product UI.
 public class ManageProductUI {
 
     public JFrame view;
