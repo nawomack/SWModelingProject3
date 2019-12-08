@@ -1,3 +1,4 @@
+//Customer model.
 public class CustomerModel {
     public int mCustomerID;
     public String mName, mPhone, mAddress;
